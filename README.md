@@ -30,6 +30,8 @@ Install it using pip:
 ```bash
 pip install pyperclip
 
+---
+
 ## How to run
 ```bash
 python clipboard_spy.py
