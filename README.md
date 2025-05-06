@@ -37,3 +37,10 @@ pip install pyperclip
 ```bash
 python clipboard_spy.py
 ```
+
+---
+
+## Author
+
+**Nico L. Estellore**
+15-year-old cybersecurity self-thought studentlearning Pyton, ethical hacking, and encryption
